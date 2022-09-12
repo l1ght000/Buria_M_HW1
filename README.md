@@ -1,1 +1,3 @@
-# Buria_M_HW1
+# My team is awesome
+
+All about our dev team. 
